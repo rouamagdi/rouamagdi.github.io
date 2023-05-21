@@ -71974,7 +71974,7 @@ var q=$.aqr()
 return A.ahY(B.X,null,B.j,B.yO,B.X,B.a3,A.ax4(B.j,null,null),B.j,q,A.anS())})
 s($,"aEH","aqr",()=>{var q=null,p=A.alO(B.n,q,96,B.N,B.U,q),o=A.kS(B.n,60,B.N,B.U),n=A.kS(B.n,48,B.N,B.U),m=A.kS(B.n,34,B.N,B.U),l=A.kS(B.n,24,B.N,B.U),k=A.kS(B.n,20,B.N,B.U),j=A.kS(B.n,18,B.N,B.U),i=A.kS(B.n,14,B.N,B.U)
 return A.ahW(q,q,q,A.alP(B.fg,16,B.N,B.v),A.kS(B.n,14,B.N,B.cM),A.alP(B.n,16,B.N,B.v),A.kS(B.zg,12,B.N,B.v),q,q,q,p,o,n,m,l,k,q,q,q,q,q,q,j,i,q,q,q)})
-r($,"aI2","ajD",()=>A.a([A.ah7(B.As,"+971 543587978","Phone Me:"),A.ah7(B.AK,"rouamagd@gmail.com","Mail Me:"),A.ah7(B.mp,"https://linkedin.com/in/rouamagdi/","Follow Me:")],A.M("o<pA>")))
+r($,"aI2","ajD",()=>A.a([A.ah7(B.As,"+20 1008275718","Phone Me:"),A.ah7(B.AK,"rouamagd@gmail.com","Mail Me:"),A.ah7(B.mp,"https://linkedin.com/in/rouamagdi/","Follow Me:")],A.M("o<pA>")))
 r($,"aFa","ajo",()=>A.a([A.ahP(B.lM,B.j,B.mp,"LinkedIn",B.lM,"https://linkedin.com/in/rouamagdi/"),A.ahP(B.lQ,B.j,B.AI,"Medium",B.lQ,"https://medium.com/@r.magdi1997"),A.ahP(B.fj,B.j,B.AJ,"Github",B.fj,"https://github.com/rouamagdi")],A.M("o<Kf>")))
 r($,"aF9","ajn",()=>A.a([A.k_(100,"flutter & Dart"),A.k_(90,"Rest APIs, and integration of various third parties"),A.k_(80," Kotlin "),A.k_(100,"firebase push notification - real Time - remote cofig"),A.k_(80,"Strong Object Oriented Programming (OOP)"),A.k_(90,"Animation "),A.k_(70,"Payment Gateways"),A.k_(80,"WebSocket and streams"),A.k_(90,"design pattern MVC, MVVM "),A.k_(90,"Git  ")],A.M("o<K0>")))
 r($,"aF8","agc",()=>{var q="We believe direct collaboration with our clients is essential to bringing unique"
