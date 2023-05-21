@@ -65004,7 +65004,7 @@ m.push(new A.c4(3,l))
 return A.cZ(B.aX,B.c1,A.uS(B.c1,A.bV(B.D,A.a([o,p,A.aY(A.a([new A.c4(2,l),k,new A.c4(1,l),A.c2(m,B.r,B.bG,B.o),new A.c4(1,l),A.amC(B.X,"Phone Me",60,u.E,150),new A.c4(2,l)],n),B.r,B.m,B.o)],n),B.I)),q,l,r)}},
 $S:19}
 A.a9R.prototype={
-$0(){return A.jg("tel://0509085933",null,!1)},
+$0(){return A.jg("tel://+20 1008275718",null,!1)},
 $S:0}
 A.pA.prototype={
 D(a,b){var s,r=null,q=A.ap(b).W,p=A.mM(this.e,B.X,36),o=q.x
